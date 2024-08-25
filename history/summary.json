@@ -52,7 +52,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-08-25": 0
+      "2024-08-25": 7
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "7.78%",
-    "uptimeDay": "7.78%",
-    "uptimeWeek": "7.78%",
-    "uptimeMonth": "7.78%",
-    "uptimeYear": "7.78%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 702,
     "timeDay": 702,
     "timeWeek": 702,
     "timeMonth": 702,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-08-25": 0
+      "2024-08-25": 7
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "$REQUESTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
-    "status": "down",
-    "uptime": "8.10%",
-    "uptimeDay": "8.10%",
-    "uptimeWeek": "8.10%",
-    "uptimeMonth": "8.10%",
-    "uptimeYear": "8.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.39%",
+    "uptimeDay": "1.39%",
+    "uptimeWeek": "1.39%",
+    "uptimeMonth": "1.39%",
+    "uptimeYear": "1.39%",
+    "time": 2165,
+    "timeDay": 2165,
+    "timeWeek": 2165,
+    "timeMonth": 2165,
+    "timeYear": 2165,
     "dailyMinutesDown": {
-      "2024-08-25": 0
+      "2024-08-25": 6
     }
   }
 ]
