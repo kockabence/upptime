@@ -52,7 +52,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-08-30": 586,
+      "2024-08-30": 594,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -65,19 +65,19 @@
     "url": "$JELLYFIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 884,
-    "timeWeek": 982,
-    "timeMonth": 982,
-    "timeYear": 982,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 962,
+    "timeDay": 856,
+    "timeWeek": 962,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 8
     }
   },
   {
@@ -97,7 +97,7 @@
     "timeMonth": 801,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2024-08-30": 586,
+      "2024-08-30": 594,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
