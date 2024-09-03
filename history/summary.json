@@ -52,7 +52,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-09-03": 32,
+      "2024-09-03": 473,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -69,18 +69,20 @@
     "url": "$JELLYFIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 833,
-    "timeWeek": 871,
-    "timeMonth": 913,
-    "timeYear": 913,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1113,
+    "timeDay": 2269,
+    "timeWeek": 1155,
+    "timeMonth": 1113,
+    "timeYear": 1113,
+    "dailyMinutesDown": {
+      "2024-09-03": 1
+    }
   },
   {
     "name": "Plex",
@@ -99,7 +101,7 @@
     "timeMonth": 751,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2024-09-03": 32,
+      "2024-09-03": 473,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -116,35 +118,39 @@
     "url": "$AUDIOBOOKS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 683,
-    "timeWeek": 710,
-    "timeMonth": 737,
-    "timeYear": 737,
-    "dailyMinutesDown": {}
+    "time": 977,
+    "timeDay": 2148,
+    "timeWeek": 1073,
+    "timeMonth": 977,
+    "timeYear": 977,
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Jellyseerr",
     "url": "$REQUESTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1566,
-    "timeDay": 1421,
-    "timeWeek": 1413,
-    "timeMonth": 1566,
-    "timeYear": 1566,
-    "dailyMinutesDown": {}
+    "time": 1741,
+    "timeDay": 2544,
+    "timeWeek": 1695,
+    "timeMonth": 1741,
+    "timeYear": 1741,
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   }
 ]
