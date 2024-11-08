@@ -1,7 +1,7 @@
 url: $JELLYFIN
-status: down
-code: 502
-responseTime: 3572
-lastUpdated: 2024-11-08T21:15:29.404Z
+status: up
+code: 200
+responseTime: 1270
+lastUpdated: 2024-11-08T21:35:39.562Z
 startTime: 2024-08-25T16:14:16.930Z
 generator: Upptime <https://github.com/upptime/upptime>
