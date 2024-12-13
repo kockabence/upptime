@@ -1,7 +1,7 @@
 url: $REQUESTS
-status: down
-code: 502
-responseTime: 3900
-lastUpdated: 2024-12-13T10:56:13.383Z
+status: up
+code: 200
+responseTime: 1278
+lastUpdated: 2024-12-13T11:24:47.696Z
 startTime: 2024-08-25T16:14:21.621Z
 generator: Upptime <https://github.com/upptime/upptime>
