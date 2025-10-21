@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 110,
-    "timeDay": 98,
+    "timeDay": 82,
     "timeWeek": 93,
-    "timeMonth": 101,
+    "timeMonth": 102,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2025-08-21": 21,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 191,
-    "timeWeek": 162,
-    "timeMonth": 270,
+    "timeDay": 69,
+    "timeWeek": 118,
+    "timeMonth": 269,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -52,12 +52,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 123,
-    "timeDay": 123,
-    "timeWeek": 83,
+    "timeDay": 82,
+    "timeWeek": 87,
     "timeMonth": 95,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-10-20": 44,
+      "2025-10-21": 41,
+      "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -420,8 +421,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   },
   {
@@ -430,15 +430,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "44.25%",
+    "uptime": "44.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.76%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "37.00%",
-    "time": 1542,
-    "timeDay": 825,
-    "timeWeek": 984,
-    "timeMonth": 1126,
+    "time": 1539,
+    "timeDay": 758,
+    "timeWeek": 978,
+    "timeMonth": 1123,
     "timeYear": 1496,
     "dailyMinutesDown": {
       "2025-09-23": 309,
@@ -685,8 +685,7 @@
       "2024-11-14": 36,
       "2024-11-08": 20,
       "2024-11-04": 18,
-      "2024-10-29": 53,
-      "2024-10-21": 78
+      "2024-10-29": 53
     }
   },
   {
@@ -700,13 +699,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 824,
-    "timeDay": 598,
-    "timeWeek": 782,
-    "timeMonth": 771,
+    "time": 823,
+    "timeDay": 600,
+    "timeWeek": 767,
+    "timeMonth": 772,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2025-10-20": 44,
+      "2025-10-21": 41,
+      "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -1069,8 +1069,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   },
   {
@@ -1079,15 +1078,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "57.02%",
+    "uptime": "57.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.76%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "51.55%",
-    "time": 1511,
-    "timeDay": 729,
-    "timeWeek": 814,
-    "timeMonth": 953,
+    "time": 1509,
+    "timeDay": 651,
+    "timeWeek": 805,
+    "timeMonth": 949,
     "timeYear": 1543,
     "dailyMinutesDown": {
       "2025-09-23": 309,
@@ -1278,8 +1277,7 @@
       "2024-12-04": 170,
       "2024-11-14": 35,
       "2024-11-04": 18,
-      "2024-10-29": 87,
-      "2024-10-21": 49
+      "2024-10-29": 87
     }
   },
   {
@@ -1288,16 +1286,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "44.39%",
+    "uptime": "44.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.76%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "37.01%",
-    "time": 2524,
-    "timeDay": 1362,
-    "timeWeek": 1580,
-    "timeMonth": 1965,
-    "timeYear": 2170,
+    "time": 2518,
+    "timeDay": 1151,
+    "timeWeek": 1551,
+    "timeMonth": 1899,
+    "timeYear": 2169,
     "dailyMinutesDown": {
       "2025-09-23": 309,
       "2025-09-20": 1155,
@@ -1539,8 +1537,7 @@
       "2024-12-04": 170,
       "2024-11-14": 35,
       "2024-11-04": 19,
-      "2024-10-29": 85,
-      "2024-10-21": 56
+      "2024-10-29": 85
     }
   }
 ]
