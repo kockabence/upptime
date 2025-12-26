@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 115,
-    "timeDay": 72,
-    "timeWeek": 173,
-    "timeMonth": 151,
+    "timeDay": 81,
+    "timeWeek": 172,
+    "timeMonth": 149,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-12-16": 58,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 114,
-    "timeWeek": 192,
-    "timeMonth": 175,
-    "timeYear": 201,
+    "timeDay": 73,
+    "timeWeek": 186,
+    "timeMonth": 170,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -54,12 +54,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 119,
-    "timeDay": 103,
-    "timeWeek": 78,
+    "timeDay": 88,
+    "timeWeek": 82,
     "timeMonth": 80,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-12-25": 44,
+      "2025-12-26": 45,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -422,8 +423,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -432,16 +432,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "51.68%",
+    "uptime": "51.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
-    "uptimeYear": "37.07%",
+    "uptimeYear": "37.35%",
     "time": 1402,
-    "timeDay": 795,
-    "timeWeek": 991,
-    "timeMonth": 1200,
-    "timeYear": 1166,
+    "timeDay": 895,
+    "timeWeek": 954,
+    "timeMonth": 1189,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-12-15": 902,
       "2025-10-30": 19,
@@ -676,8 +676,7 @@
       "2025-01-23": 44,
       "2025-01-08": 17,
       "2025-01-06": 98,
-      "2024-12-27": 1279,
-      "2024-12-26": 1440
+      "2024-12-27": 1279
     }
   },
   {
@@ -691,13 +690,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 802,
-    "timeDay": 643,
-    "timeWeek": 769,
-    "timeMonth": 747,
+    "time": 801,
+    "timeDay": 578,
+    "timeWeek": 719,
+    "timeMonth": 739,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2025-12-25": 45,
+      "2025-12-26": 45,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -1060,8 +1060,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -1070,15 +1069,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "62.73%",
+    "uptime": "62.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
-    "uptimeYear": "51.62%",
+    "uptimeYear": "51.89%",
     "time": 1447,
-    "timeDay": 655,
-    "timeWeek": 786,
-    "timeMonth": 983,
+    "timeDay": 609,
+    "timeWeek": 740,
+    "timeMonth": 971,
     "timeYear": 1522,
     "dailyMinutesDown": {
       "2025-12-15": 902,
@@ -1260,8 +1259,7 @@
       "2025-03-04": 110,
       "2025-01-23": 44,
       "2025-01-06": 75,
-      "2024-12-27": 1279,
-      "2024-12-26": 1440
+      "2024-12-27": 1279
     }
   },
   {
@@ -1270,16 +1268,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "51.81%",
+    "uptime": "51.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
-    "uptimeYear": "37.08%",
-    "time": 2322,
-    "timeDay": 1230,
-    "timeWeek": 1495,
-    "timeMonth": 2427,
-    "timeYear": 2124,
+    "uptimeYear": "37.36%",
+    "time": 2320,
+    "timeDay": 1169,
+    "timeWeek": 1397,
+    "timeMonth": 2384,
+    "timeYear": 2128,
     "dailyMinutesDown": {
       "2025-12-15": 902,
       "2025-09-23": 309,
@@ -1512,8 +1510,7 @@
       "2025-02-06": 90,
       "2025-01-23": 44,
       "2025-01-06": 83,
-      "2024-12-27": 1279,
-      "2024-12-26": 1440
+      "2024-12-27": 1279
     }
   }
 ]
