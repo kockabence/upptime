@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 132,
-    "timeDay": 145,
-    "timeWeek": 122,
+    "timeDay": 82,
+    "timeWeek": 121,
     "timeMonth": 190,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 222,
-    "timeWeek": 196,
-    "timeMonth": 183,
-    "timeYear": 197,
+    "timeDay": 236,
+    "timeWeek": 211,
+    "timeMonth": 187,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -54,12 +54,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 116,
-    "timeDay": 53,
-    "timeWeek": 90,
-    "timeMonth": 89,
+    "timeDay": 94,
+    "timeWeek": 96,
+    "timeMonth": 90,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-02-14": 57,
+      "2026-02-15": 62,
+      "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -422,8 +423,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   },
   {
@@ -432,16 +432,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "56.26%",
+    "uptime": "56.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "39.82%",
-    "time": 1183,
-    "timeDay": 999,
-    "timeWeek": 1176,
-    "timeMonth": 1081,
-    "timeYear": 1095,
+    "uptimeYear": "40.10%",
+    "time": 1184,
+    "timeDay": 1209,
+    "timeWeek": 1178,
+    "timeMonth": 1094,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2026-02-01": 24,
       "2026-01-16": 28,
@@ -664,8 +664,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   },
   {
@@ -679,13 +678,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 801,
-    "timeDay": 693,
-    "timeWeek": 846,
-    "timeMonth": 801,
-    "timeYear": 760,
+    "time": 802,
+    "timeDay": 880,
+    "timeWeek": 847,
+    "timeMonth": 808,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2026-02-14": 57,
+      "2026-02-15": 62,
+      "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -1048,8 +1048,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   },
   {
@@ -1058,16 +1057,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "66.26%",
+    "uptime": "66.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.42%",
-    "time": 1398,
-    "timeDay": 793,
-    "timeWeek": 867,
-    "timeMonth": 801,
-    "timeYear": 1505,
+    "time": 1400,
+    "timeDay": 2040,
+    "timeWeek": 1029,
+    "timeMonth": 845,
+    "timeYear": 1507,
     "dailyMinutesDown": {
       "2025-12-15": 902,
       "2025-09-23": 309,
@@ -1254,16 +1253,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "56.38%",
+    "uptime": "56.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.83%",
+    "uptimeYear": "40.11%",
     "time": 2035,
-    "timeDay": 2293,
-    "timeWeek": 1882,
-    "timeMonth": 1608,
-    "timeYear": 1889,
+    "timeDay": 2056,
+    "timeWeek": 1904,
+    "timeMonth": 1636,
+    "timeYear": 1890,
     "dailyMinutesDown": {
       "2025-12-15": 902,
       "2025-09-23": 309,
@@ -1483,8 +1482,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   }
 ]
