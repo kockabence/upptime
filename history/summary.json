@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 132,
-    "timeDay": 77,
-    "timeWeek": 115,
-    "timeMonth": 184,
+    "timeDay": 100,
+    "timeWeek": 117,
+    "timeMonth": 183,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-12-16": 58,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 176,
-    "timeWeek": 244,
-    "timeMonth": 196,
+    "timeDay": 227,
+    "timeWeek": 243,
+    "timeMonth": 197,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -54,12 +54,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 116,
-    "timeDay": 58,
-    "timeWeek": 100,
-    "timeMonth": 93,
-    "timeYear": 101,
+    "timeDay": 90,
+    "timeWeek": 99,
+    "timeMonth": 94,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-02-21": 55,
+      "2026-02-22": 59,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -422,8 +423,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -432,15 +432,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "56.82%",
+    "uptime": "56.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "41.74%",
-    "time": 1173,
-    "timeDay": 836,
-    "timeWeek": 987,
-    "timeMonth": 1027,
+    "uptimeYear": "42.01%",
+    "time": 1175,
+    "timeDay": 1220,
+    "timeWeek": 988,
+    "timeMonth": 1038,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2026-02-01": 24,
@@ -657,8 +657,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -672,13 +671,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 799,
-    "timeDay": 724,
-    "timeWeek": 758,
-    "timeMonth": 797,
-    "timeYear": 760,
+    "time": 788,
+    "timeDay": 924,
+    "timeWeek": 765,
+    "timeMonth": 802,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2026-02-21": 55,
+      "2026-02-22": 59,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -1041,8 +1041,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -1051,15 +1050,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "66.70%",
+    "uptime": "66.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.42%",
-    "time": 1392,
-    "timeDay": 704,
-    "timeWeek": 952,
-    "timeMonth": 847,
+    "time": 1393,
+    "timeDay": 906,
+    "timeWeek": 790,
+    "timeMonth": 854,
     "timeYear": 1507,
     "dailyMinutesDown": {
       "2025-12-15": 902,
@@ -1247,15 +1246,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "56.95%",
+    "uptime": "57.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.75%",
-    "time": 1982,
-    "timeDay": 1457,
-    "timeWeek": 1549,
-    "timeMonth": 1627,
+    "uptimeYear": "42.03%",
+    "time": 1984,
+    "timeDay": 1857,
+    "timeWeek": 1520,
+    "timeMonth": 1643,
     "timeYear": 1874,
     "dailyMinutesDown": {
       "2025-12-15": 902,
@@ -1469,8 +1468,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   }
 ]
