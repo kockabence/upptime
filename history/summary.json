@@ -29,19 +29,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 209,
+    "timeDay": 157,
     "timeWeek": 103,
-    "timeMonth": 195,
+    "timeMonth": 192,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 24
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeMonth": 98,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2026-03-01": 837,
+      "2026-03-01": 861,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -672,7 +672,7 @@
     "timeMonth": 824,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2026-03-01": 837,
+      "2026-03-01": 861,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1245,7 +1245,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.09%",
+    "uptimeYear": "44.10%",
     "time": 1973,
     "timeDay": 1924,
     "timeWeek": 1444,
