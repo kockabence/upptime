@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 132,
-    "timeDay": 89,
+    "timeDay": 108,
     "timeWeek": 100,
-    "timeMonth": 116,
+    "timeMonth": 111,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-12-16": 58,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 71,
-    "timeWeek": 165,
-    "timeMonth": 172,
-    "timeYear": 195,
+    "time": 201,
+    "timeDay": 439,
+    "timeWeek": 194,
+    "timeMonth": 184,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2026-03-01": 24
     }
@@ -56,12 +56,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 114,
-    "timeDay": 98,
-    "timeWeek": 89,
-    "timeMonth": 89,
+    "timeDay": 174,
+    "timeWeek": 91,
+    "timeMonth": 93,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2026-03-11": 55,
+      "2026-03-12": 52,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -424,8 +425,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -434,15 +434,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "58.20%",
+    "uptime": "58.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.67%",
+    "uptimeYear": "46.94%",
     "time": 1157,
-    "timeDay": 805,
-    "timeWeek": 1076,
-    "timeMonth": 1035,
+    "timeDay": 1101,
+    "timeWeek": 1078,
+    "timeMonth": 1029,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2026-02-01": 24,
@@ -641,8 +641,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -656,13 +655,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 771,
-    "timeDay": 691,
-    "timeWeek": 832,
-    "timeMonth": 827,
+    "time": 772,
+    "timeDay": 801,
+    "timeWeek": 822,
+    "timeMonth": 821,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2026-03-11": 55,
+      "2026-03-12": 52,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1025,8 +1025,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1035,16 +1034,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "67.76%",
+    "uptime": "67.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.45%",
     "time": 1390,
-    "timeDay": 605,
-    "timeWeek": 872,
-    "timeMonth": 880,
-    "timeYear": 1501,
+    "timeDay": 854,
+    "timeWeek": 865,
+    "timeMonth": 874,
+    "timeYear": 1502,
     "dailyMinutesDown": {
       "2025-12-15": 902,
       "2025-09-23": 309,
@@ -1230,16 +1229,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "58.32%",
+    "uptime": "58.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.68%",
-    "time": 1979,
-    "timeDay": 1281,
-    "timeWeek": 1689,
-    "timeMonth": 1624,
-    "timeYear": 1843,
+    "uptimeYear": "46.96%",
+    "time": 1980,
+    "timeDay": 1662,
+    "timeWeek": 1682,
+    "timeMonth": 1611,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2025-12-15": 902,
       "2025-09-23": 309,
@@ -1434,8 +1433,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   }
 ]
