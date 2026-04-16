@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
     "time": 134,
-    "timeDay": 161,
-    "timeWeek": 175,
-    "timeMonth": 137,
+    "timeDay": 103,
+    "timeWeek": 176,
+    "timeMonth": 135,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2026-04-12": 75,
@@ -38,8 +38,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 281,
-    "timeWeek": 254,
+    "timeDay": 225,
+    "timeWeek": 255,
     "timeMonth": 177,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -58,12 +58,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 162,
-    "timeWeek": 145,
-    "timeMonth": 110,
+    "timeDay": 80,
+    "timeWeek": 147,
+    "timeMonth": 109,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2026-04-15": 72,
+      "2026-04-16": 76,
+      "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -426,8 +427,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -436,15 +436,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "58.19%",
+    "uptime": "58.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.53%",
-    "uptimeYear": "52.22%",
-    "time": 1088,
-    "timeDay": 1028,
-    "timeWeek": 990,
-    "timeMonth": 891,
+    "uptimeYear": "52.50%",
+    "time": 1089,
+    "timeDay": 916,
+    "timeWeek": 988,
+    "timeMonth": 885,
     "timeYear": 1051,
     "dailyMinutesDown": {
       "2026-04-03": 822,
@@ -624,8 +624,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -640,12 +639,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 769,
-    "timeDay": 882,
-    "timeWeek": 776,
-    "timeMonth": 771,
-    "timeYear": 768,
+    "timeDay": 714,
+    "timeWeek": 775,
+    "timeMonth": 769,
+    "timeYear": 767,
     "dailyMinutesDown": {
-      "2026-04-15": 72,
+      "2026-04-16": 77,
+      "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -1008,8 +1008,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -1018,16 +1017,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "67.19%",
+    "uptime": "67.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.53%",
-    "uptimeYear": "52.24%",
+    "uptimeYear": "52.51%",
     "time": 1352,
-    "timeDay": 912,
-    "timeWeek": 782,
-    "timeMonth": 795,
-    "timeYear": 1369,
+    "timeDay": 751,
+    "timeWeek": 788,
+    "timeMonth": 791,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2026-04-03": 822,
       "2026-04-02": 1440,
@@ -1203,8 +1202,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -1213,16 +1211,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "58.30%",
+    "uptime": "58.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.53%",
-    "uptimeYear": "52.24%",
+    "uptimeYear": "52.51%",
     "time": 1856,
-    "timeDay": 1847,
-    "timeWeek": 1673,
-    "timeMonth": 1230,
-    "timeYear": 1776,
+    "timeDay": 1551,
+    "timeWeek": 1677,
+    "timeMonth": 1228,
+    "timeYear": 1775,
     "dailyMinutesDown": {
       "2026-04-03": 822,
       "2026-04-02": 1440,
@@ -1398,8 +1396,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   }
 ]
