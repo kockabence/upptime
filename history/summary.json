@@ -8,12 +8,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 135,
-    "timeDay": 122,
-    "timeWeek": 104,
-    "timeMonth": 126,
+    "timeDay": 99,
+    "timeWeek": 106,
+    "timeMonth": 114,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2026-04-12": 75,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 300,
-    "timeWeek": 165,
-    "timeMonth": 169,
-    "timeYear": 194,
+    "timeDay": 206,
+    "timeWeek": 181,
+    "timeMonth": 175,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2026-03-01": 24
     }
@@ -58,12 +58,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 109,
-    "timeDay": 121,
-    "timeWeek": 71,
-    "timeMonth": 95,
+    "timeDay": 104,
+    "timeWeek": 75,
+    "timeMonth": 97,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2026-05-11": 108,
+      "2026-05-12": 89,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -426,8 +427,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -436,16 +436,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "59.93%",
+    "uptime": "60.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.35%",
-    "time": 1050,
-    "timeDay": 1255,
-    "timeWeek": 1113,
-    "timeMonth": 988,
-    "timeYear": 1045,
+    "uptimeYear": "59.62%",
+    "time": 1052,
+    "timeDay": 1378,
+    "timeWeek": 1206,
+    "timeMonth": 1009,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2026-04-03": 822,
       "2026-04-02": 1440,
@@ -598,8 +598,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -613,13 +612,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 770,
-    "timeDay": 732,
-    "timeWeek": 697,
-    "timeMonth": 762,
+    "time": 771,
+    "timeDay": 790,
+    "timeWeek": 728,
+    "timeMonth": 770,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2026-05-11": 108,
+      "2026-05-12": 89,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -982,8 +982,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -992,16 +991,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "68.56%",
+    "uptime": "68.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.37%",
+    "uptimeYear": "59.64%",
     "time": 1338,
-    "timeDay": 858,
-    "timeWeek": 796,
-    "timeMonth": 798,
-    "timeYear": 1165,
+    "timeDay": 737,
+    "timeWeek": 811,
+    "timeMonth": 803,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2026-04-03": 822,
       "2026-04-02": 1440,
@@ -1151,8 +1150,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -1161,15 +1159,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "60.04%",
+    "uptime": "60.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.37%",
-    "time": 1770,
-    "timeDay": 1851,
-    "timeWeek": 1681,
-    "timeMonth": 1727,
+    "uptimeYear": "59.64%",
+    "time": 1763,
+    "timeDay": 1815,
+    "timeWeek": 1768,
+    "timeMonth": 1744,
     "timeYear": 1772,
     "dailyMinutesDown": {
       "2026-04-03": 822,
@@ -1320,8 +1318,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   }
 ]
